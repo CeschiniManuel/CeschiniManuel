@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> test </h2>
+<h3>About me:</h3></br>
+<b>Name:</b>  &nbsp &nbsp &nbsp &nbsp &nbsp Ceschini Manuel</br>
+<b>Occupation:</b> &nbspComputer Sience Student | 2 Year - 4 Semester</br>
+<b>Untiversity:</b> &nbsp&nbspJKU - Linz - OÖ</br>
+
+

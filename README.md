@@ -29,15 +29,18 @@ interface designing in XML</br>
 <b>C</b> - Basic</br>
 <b>PHP</b> - Basic</br>
 <b>Dart</b> - Learning</br>
-</br>
 
 <b>Database-Platform knowledge</b></br>
 Postgresql</br>
 MySQL</br>
-</br>
+
 <b>Data exchange / Query Language</b></br>
 <b>SQL</b> - Advanced</br>
 <b>JSON</b> - Basic</br>
+
+<b>Markup Languages</b></br>
+<b>HTML</b> - Basic</br>
+<b>XML</b> - Advanced</br>
 </br>
 
 
